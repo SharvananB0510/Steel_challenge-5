@@ -3,7 +3,7 @@ This contribution is part of the 6 challenges presented by Steel Data.
 
 Get the dataset [link](https://www.steeldata.org.uk/sql5.html)
 
-## Challange Overview
+## Challenge Overview
 As a Pricing Analyst at 'Pubs "R" Us,' my objective was to delve into the drinks prices and sales data, unraveling key insights to enhance our understanding of the performance across our pub chain.By employing analytical techniques and leveraging sales data, the analysis aims to draw meaningful conclusions about pricing strategies, sales trends, and overall business performance.
 
 ## Tables
