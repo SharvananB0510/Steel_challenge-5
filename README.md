@@ -1,4 +1,4 @@
-# Pub pricing analysis
+# Pub Pricing Analysis
 This contribution is part of the 6 challenges presented by Steel Data.
 
 Get the dataset [link](https://www.steeldata.org.uk/sql5.html)
